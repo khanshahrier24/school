@@ -1,0 +1,169 @@
+body{
+    font-family: system-ui, sans-serif;
+    margin: 0px;
+}
+.container
+{
+    margin-bottom: 50px;
+}
+
+.back
+{
+    background-color: azure;
+    
+}
+.bg-light{
+    background-color:  azure!important;
+}
+.logo
+{
+    height: 50px;
+    width: 180px;
+}
+.btn
+{
+    border-radius: 25px;
+    border: none;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 4px;
+   
+}
+.illus
+{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.det
+{
+   margin-top: 25px;
+}
+.learn
+{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.rus
+{
+    margin-top: 10px;
+}
+span
+{
+    color: green;
+}
+.max
+{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.top
+{
+    margin-top: 20px;
+    color: orange;
+}
+.book ,.students
+{
+    height: 80px;
+    width: 70px;
+    margin-left: 20px;
+    
+   
+}
+.test, .student
+{
+    height: 80px;
+    width: 70px;
+    padding: 10px;
+    margin-left: 20px;
+
+}
+.crd
+{
+   margin-top: 50px;
+   margin-left: 70px;
+   
+   }
+.book
+{
+    padding: 10px;
+    margin-left: 20px;
+}
+.students
+{
+    padding: 10px;
+    
+}
+.max2
+{
+    margin-bottom: 45px;
+}
+.card-footer
+{
+    border-top: none;
+    background-color: white!important;
+}
+.card
+{
+    border-radius: 15px;
+    border: none;
+    box-shadow: 10px 10px 40px 5px rgb(231, 231, 231);
+}
+.calender
+{
+    height: 20px;
+    width: 20px;
+}
+.pic
+{
+    
+    height: 17px;
+    width: 17px;
+}
+.psy
+{
+    padding: 18px;
+}
+.man
+{
+    height: 130px;
+    width: 130px;
+}
+.para
+{
+    padding: 25px;
+}
+.d-flex
+{
+    display: flex;
+}
+.footer.crd{
+    margin-top: 150px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.jakua
+{
+    background-color: #343a40;
+    color: white;
+    height: 100%;
+    width: 100%;
+    display: block;
+    padding-top: 25px;
+    padding-bottom: 15px;
+   
+}
+.lastp
+{
+    color: white;
+    
+}
+.jakua a
+{
+    color: white;
+}
+footer
+{
+    padding-top: 80px;
+}

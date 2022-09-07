@@ -104,9 +104,16 @@ span
 }
 .card
 {
-    border-radius: 15px;
+    border-radius: 30px;
     border: none;
-    box-shadow: 10px 10px 40px 5px rgb(231, 231, 231);
+    
+    cursor: pointer;
+}
+
+.card:hover
+{
+    box-shadow: 0px 0px 40px 10px gainsboro;
+    transition: 0.40s;
 }
 .calender
 {
@@ -136,9 +143,11 @@ span
 {
     display: flex;
 }
-.footer.crd{
-    margin-top: 150px;
+.footer-crd{
+    margin-top: 25px;
 }
+
+
 a{
     color: black;
     text-decoration: none;
@@ -167,3 +176,11 @@ footer
 {
     padding-top: 80px;
 }
+.iconx
+{
+    height: 90px;
+    width: 50px;
+   padding-top: 30px;
+  
+}
+
